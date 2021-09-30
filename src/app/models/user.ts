@@ -1,0 +1,10 @@
+export interface Usuario{
+    email: string;
+    senha: string;
+    nome: string;
+    telefone: string;
+}
+    export interface Authentication{
+        username: string;
+        password: string;
+    }
